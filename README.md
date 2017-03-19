@@ -1,6 +1,6 @@
 # blog-concurrency
 
-A trial Clojure project for a blog post about concurrency.
+A trial Clojure project for a blog post about concurrency in Clojure.
 
 ## Usage
 
