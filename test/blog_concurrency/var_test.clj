@@ -10,4 +10,7 @@
   re-binded-var => "re-binded var")
 
 (fact "root binding is still untouched"
-  dynamic-var => "dynamic var")
+  *dynamic-var* => "dynamic var")
+
+(fact "vars are global"
+  future-var => "future var")
