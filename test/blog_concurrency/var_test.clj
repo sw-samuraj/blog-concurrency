@@ -14,3 +14,9 @@
 
 (fact "vars are global"
   future-var => "future var")
+
+(fact "The Answer to the Ultimate Question of Life, The Universe, and Everything"
+  (compute) => 42)
+
+(fact "the answer in binary form"
+  (compute-binary) => "101001")
