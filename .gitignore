@@ -2,3 +2,5 @@
 *.swp
 .lein-*
 .nrepl-*
+*.iml
+.idea
