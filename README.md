@@ -1,10 +1,12 @@
 # blog-concurrency
 
-A trial Clojure project for a blog post about concurrency in Clojure.
+A trial Clojure project for blog post series about concurrency in Clojure.
 
 ## Usage
 
-TBD
+1. Clone the project.
+1. Run `lein test`.
+1. Browse the source code.
 
 ## License
 
